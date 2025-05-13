@@ -1,0 +1,4 @@
+google-cloud-bigquery
+pandas
+pymongo==3.10.0
+pyarrow
